@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingCards", "PlayingCards\PlayingCards.csproj", "{E008EF10-8CBC-478F-8728-4214F5B0D02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rummybase", "Rummybase\Rummybase.csproj", "{094B7346-1641-4776-9699-F1554EDDA1D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RummyBots", "RummyBots\RummyBots.csproj", "{447B3663-8F80-41CB-B218-208849173FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentHostProject", "TournamentHostProject\TournamentHostProject.csproj", "{60D11C8A-9018-419F-A6B8-C8AD161E54F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E008EF10-8CBC-478F-8728-4214F5B0D02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E008EF10-8CBC-478F-8728-4214F5B0D02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E008EF10-8CBC-478F-8728-4214F5B0D02A}.Debug|x64.ActiveCfg = Debug|x64
+		{E008EF10-8CBC-478F-8728-4214F5B0D02A}.Debug|x64.Build.0 = Debug|x64
+		{E008EF10-8CBC-478F-8728-4214F5B0D02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E008EF10-8CBC-478F-8728-4214F5B0D02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E008EF10-8CBC-478F-8728-4214F5B0D02A}.Release|x64.ActiveCfg = Release|x64
+		{E008EF10-8CBC-478F-8728-4214F5B0D02A}.Release|x64.Build.0 = Release|x64
+		{094B7346-1641-4776-9699-F1554EDDA1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094B7346-1641-4776-9699-F1554EDDA1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094B7346-1641-4776-9699-F1554EDDA1D0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{094B7346-1641-4776-9699-F1554EDDA1D0}.Debug|x64.Build.0 = Debug|Any CPU
+		{094B7346-1641-4776-9699-F1554EDDA1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094B7346-1641-4776-9699-F1554EDDA1D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094B7346-1641-4776-9699-F1554EDDA1D0}.Release|x64.ActiveCfg = Release|Any CPU
+		{094B7346-1641-4776-9699-F1554EDDA1D0}.Release|x64.Build.0 = Release|Any CPU
+		{447B3663-8F80-41CB-B218-208849173FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447B3663-8F80-41CB-B218-208849173FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447B3663-8F80-41CB-B218-208849173FE4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{447B3663-8F80-41CB-B218-208849173FE4}.Debug|x64.Build.0 = Debug|Any CPU
+		{447B3663-8F80-41CB-B218-208849173FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447B3663-8F80-41CB-B218-208849173FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447B3663-8F80-41CB-B218-208849173FE4}.Release|x64.ActiveCfg = Release|Any CPU
+		{447B3663-8F80-41CB-B218-208849173FE4}.Release|x64.Build.0 = Release|Any CPU
+		{60D11C8A-9018-419F-A6B8-C8AD161E54F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D11C8A-9018-419F-A6B8-C8AD161E54F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D11C8A-9018-419F-A6B8-C8AD161E54F6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{60D11C8A-9018-419F-A6B8-C8AD161E54F6}.Debug|x64.Build.0 = Debug|Any CPU
+		{60D11C8A-9018-419F-A6B8-C8AD161E54F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D11C8A-9018-419F-A6B8-C8AD161E54F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D11C8A-9018-419F-A6B8-C8AD161E54F6}.Release|x64.ActiveCfg = Release|Any CPU
+		{60D11C8A-9018-419F-A6B8-C8AD161E54F6}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://christianbradford.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PlayingCards\\PlayingCards.csproj
+		SccProjectName1 = PlayingCards
+		SccLocalPath1 = PlayingCards
+		SccProjectUniqueName2 = Rummybase\\Rummybase.csproj
+		SccProjectName2 = Rummybase
+		SccLocalPath2 = Rummybase
+		SccProjectUniqueName3 = RummyBots\\RummyBots.csproj
+		SccProjectName3 = RummyBots
+		SccLocalPath3 = RummyBots
+		SccProjectUniqueName4 = TournamentHostProject\\TournamentHostProject.csproj
+		SccProjectName4 = TournamentHostProject
+		SccLocalPath4 = TournamentHostProject
+	EndGlobalSection
+EndGlobal
